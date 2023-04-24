@@ -16,6 +16,11 @@
     quidem repellendus veniam quibusdam ea impedit enim
     vero, reiciendis natus.
   </p>
+  <ul>
+    <li>satu</li>
+    <li>Dua</li>
+    <li>Tiga</li>
+  </ul>
 </body>
 
 </html>
